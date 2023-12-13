@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\bin\Debug\net8.0\Reverse-String-Practice-in-C-.exe
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\bin\Debug\net8.0\Reverse-String-Practice-in-C-.deps.json
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\bin\Debug\net8.0\Reverse-String-Practice-in-C-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\bin\Debug\net8.0\Reverse-String-Practice-in-C-.dll
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\bin\Debug\net8.0\Reverse-String-Practice-in-C-.pdb
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.dll
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\refint\Reverse-String-Practice-in-C-.dll
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.pdb
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\Reverse-String-Practice-in-C-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Reverse-String-Practice-in-C-\obj\Debug\net8.0\ref\Reverse-String-Practice-in-C-.dll
